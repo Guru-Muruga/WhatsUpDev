@@ -14,7 +14,8 @@ Using Tech is SpringBoot + REST Api + MySQL
 10. Added Video call feature
 11. Added Audio call feature
 12. Added my Status with trains and animation
-13. Group call feature added with 100 users
+13. Group call feature added with 500 users
+
 
 Database sector:
 1. Create a new schema
