@@ -9,6 +9,7 @@ Using Tech is SpringBoot + REST Api + MySQL
 5. Create the Implementation layer of the Service layer
 6. Create DAO layer
 7. Create DAO implementation layer
+8. API to DB integration layer using Spring Data JPA
 
 Database sector:
 1. Create a new schema
