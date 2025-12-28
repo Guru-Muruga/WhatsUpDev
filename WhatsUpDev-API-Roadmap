@@ -13,6 +13,7 @@ Using Tech is SpringBoot + REST Api + MySQL
 9. Create a Spring Scheduler using Spring Batch
 10. Added Video call feature
 11. Added Audio call feature
+12. Added my Status with trains and animation
 
 Database sector:
 1. Create a new schema
