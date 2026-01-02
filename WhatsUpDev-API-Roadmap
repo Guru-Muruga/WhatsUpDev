@@ -15,6 +15,7 @@ Using Tech is SpringBoot + REST Api + MySQL
 11. Added Audio call feature
 12. Added my Status with trains and animation
 13. Group call feature added with 500 users
+14. Added document attachment features(Word, excel and pdf)
 
 
 Database sector:
